@@ -1,5 +1,5 @@
-%%%Iterative shifted Chebyshev method for nonlinear stochastic Ito-Volterra integral
-%%%equations
+%%% Matlab code for "Iterative shifted Chebyshev method for nonlinear stochastic Ito-Volterra integral
+%%%equations"
 %%% simulation of M=10000 realizations
 %%% Example 5.1: X(t)=X_0+a^2\int_0^t \cos(X(s)) \sin^3(X(s)) ds
 %%%-a\int_0^t\sin^2(X(s))dW(s),   t\in[0,1]
